@@ -2,7 +2,7 @@
 
 ### Design-Driven (Container)Labs and Change Validation
 
-[Lab Guide](./docs/index.md) #TODO: Add GitHub Pages Link
+[Lab Guide](https://networktocode.github.io/onug2025-design-workshop/)
 
 ## About the workshop
 As part of the ONUG 2025 event, in this workshop we will attempt to dip our toes into the world of design-driven automation and test-driven change validation. If this sounds like a buzzword bingo, well, you are not wrong. The initial idea for this workshop was to create a lab that would focus on the four most used words in a previous AutoCon event: automation, design, containerlab, and testing (or at least this is how I remembered them as I couldn't find the original word cloud that inspired the idea).
