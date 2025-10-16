@@ -1,4 +1,4 @@
-# ONUG : WSB2 - Lab Guide
+# ONUG 2025 - Design-Driven Automation - Lab Guide
 
 [Connect to your dev machine](./_connect_to_your_dev_machine.md)
 
