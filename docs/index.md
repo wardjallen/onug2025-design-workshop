@@ -1,7 +1,7 @@
 [Connect to your dev machine](./connect_to_your_dev_machine.md)
 
 ## Lab 0: Preparation
-[00. Generate a Personal Access Token (PAT)](./00.generate_a_personal_access_token_(pat).md) 
+[00. Generate a Personal Access Token (PAT)](./00.generate_a_personal_access_token_pat.md) 
 
 [01. Fork the workshop repo to your Github account](./01.fork_the_workshop_repo_to_your_github_account.md)
 
