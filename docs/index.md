@@ -1,5 +1,3 @@
-# ONUG 2025 - Design-Driven Automation - Lab Guide
-
 [Connect to your dev machine](./connect_to_your_dev_machine.md)
 
 ## Lab 0: Preparation
