@@ -1,6 +1,6 @@
 # ONUG 2025 - Design-Driven Automation - Lab Guide
 
-[Connect to your dev machine](./_connect_to_your_dev_machine.md)
+[Connect to your dev machine](./connect_to_your_dev_machine.md)
 
 ## Lab 0: Preparation
 [00. Generate a Personal Access Token (PAT)](./00.generate_a_personal_access_token_(pat).md) 
