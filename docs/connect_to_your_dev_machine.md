@@ -31,7 +31,7 @@
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-05-23/9bfdc1fc-3e27-4b03-8a70-e975e7bbe24c/ascreenshot.jpeg?tl_px=0,0&br_px=2752,1538&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=260,181)
 
 
-7\. Click "Quick Access"
+7\. Click "I/O" tab and look for the "Quick Access" section
 
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-05-23/985fa675-6645-4c37-adf9-946c3119d1f7/ascreenshot.jpeg?tl_px=90,0&br_px=2842,1538&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=866,131)
 
