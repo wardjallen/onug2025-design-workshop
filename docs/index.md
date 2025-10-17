@@ -5,7 +5,7 @@
 
 [01. Fork the workshop repo to your Github account](./01.fork_the_workshop_repo_to_your_github_account.md)
 
-[02. Clone the workshop repo to your laptop](./02.clone_the_workshop_repo.md)
+[02. Clone the workshop repo](./02.clone_the_workshop_repo.md)
 
 [03. Start Nautobot](./03.start_nautobot.md)
 
