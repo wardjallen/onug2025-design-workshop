@@ -25,9 +25,8 @@ In order to make things smoother (and avoid surprises like running out of Codesp
 What can you do ahead of time?
 - **Create a Github account**: If you don't have one already, please create a Github account. You will need it to fork the original repository and work independently on your own copy of the lab. It won't hurt if you also create a Personal Access Token (PAT) as described in the respective section of the lab guide.
 
-The following diagram shows the architecture of the lab environment.
-
-![Lab Architecture](./lab_guide/images/lab_architecture.png)
+## Lab Architecture
+![Lab Architecture](./docs/images/lab_architecture.png)
 
 
 ## Authors
